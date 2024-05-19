@@ -83,7 +83,7 @@ footer{
     align-items: center;
     margin-top: 80px;
     color: white;
-    position: absolute;
+    position: relative;
 }
 footer h1,span,p{
     margin: 5px;
